@@ -1,12 +1,12 @@
 {
-  "name": "@jvnm-dev/colorette",
+  "name": "@jasonvnm/colorette",
   "version": "2.0.22",
   "type": "module",
   "main": "index.cjs",
   "module": "index.js",
   "types": "index.d.ts",
   "description": "🌈Easily set your terminal text color & styles.",
-  "repository": "jvnm-dev/colorette",
+  "repository": "jasonvnm/colorette",
   "license": "MIT",
   "exports": {
     "./package.json": "./package.json",
